@@ -2,7 +2,7 @@
 
 This project explores the cosmetics industry using data-driven insights and Tableau visualizations. It analyzes trends, consumer behavior, product preferences, and market dynamics to help businesses make strategic decisions.
 
-## ðŸ“Š Project Overview
+## 📊Project Overview
 
 The cosmetics industry is dynamic and fast-changing, driven by evolving consumer preferences and global trends. This project leverages Tableau to:
 
@@ -12,11 +12,11 @@ The cosmetics industry is dynamic and fast-changing, driven by evolving consumer
 - Compare market dynamics across regions
 - Deliver insights to inform marketing and product strategies
 
-## ðŸ§¾ Contents
+## 🧾 Contents
 
 
 
-## ðŸ§  Key Insights
+##  🧠 Key Insights
 
 Some insights discovered through this analysis include:
 
@@ -25,7 +25,7 @@ Some insights discovered through this analysis include:
 - Younger age groups prefer eco-friendly or organic products
 - Promotions and influencer marketing correlate with sales spikes
 
-## ðŸ“‚ Datasets
+## 📂Datasets
 
 The dataset includes:
 
@@ -34,15 +34,15 @@ The dataset includes:
 - Geographic sales breakdown
 - Time-based sales performance
 
-> ðŸ“Œ *Note*: All data used is either anonymized or publicly available for educational purposes.
+> 📌 *Note*: All data used is either anonymized or publicly available for educational purposes.
 
-## ðŸ“ˆ Tools Used
+## 📈 Tools Used
 
 - *Tableau* â€“ For building dashboards and visual data stories  
 - *Excel* â€“ For data preprocessing and formatting  
 - *Python* (optional) â€“ For data wrangling (if applicable)
 
-## ðŸ“½ï¸ Tableau Dashboards
+## 📽️ Tableau Dashboards
 
 Dashboards included cover:
 
