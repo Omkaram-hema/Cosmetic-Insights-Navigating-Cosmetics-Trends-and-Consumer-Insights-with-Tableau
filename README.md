@@ -38,9 +38,9 @@ The dataset includes:
 
 ## 📈 Tools Used
 
-- *Tableau* â€“ For building dashboards and visual data stories  
-- *Excel* â€“ For data preprocessing and formatting  
-- *Python* (optional) â€“ For data wrangling (if applicable)
+- *Tableau* - For building dashboards and visual data stories  
+- *Excel*- For data preprocessing and formatting  
+- *Python* (optional) - For data wrangling (if applicable)
 
 ## 📽️ Tableau Dashboards
 
